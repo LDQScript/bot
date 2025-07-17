@@ -1,0 +1,21 @@
+{
+    "tokens": [
+        ""
+    ],
+    "key": "13ac5d93-36cf-4fab-8700-4c964347fe31",
+    "domains": [
+        "ahuigweugzhue.ru"
+    ],
+    "owners": [
+        "1219200091777269792"
+    ],
+    "discordServer": "https://discord.gg/GUpUjKDuuH",
+    "notifierWebhook": "https://discord.com/api/webhooks/1387786316728635422/gtJM2NHYuiVj2hbZKhabEhXHJcmP9Gvofr2G9bXEpCW4GWuFpFN5CSRMkH_lyzeIppee",
+    "emailerToken": "",
+    "guildid": "1342502377223225396",
+    "roleid": "1234110484433604660",
+    "footer": {
+        "text": "maous",
+        "icon_url": "https://media.discordapp.net/attachments/1377469543919652923/1387786213892554853/88f30fd98515be8ccd42d0d289ee173ee0d53b2a28c604b904461477778149ae_-_Copy.png?ex=686290a1&is=68613f21&hm=55ac2d1994fc20e766e16ae3e672747d971645fe43452c332153840574b0ba0e&=&format=webp&quality=lossless&width=840&height=839"
+    }
+}
